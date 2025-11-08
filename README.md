@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishanth1321&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Nishanth's GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nishanth1321&theme=dark&hide_border=true" alt="Nishanth's GitHub Streak Stats" />
-  <br/>
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=nishanth1321&theme=dark&hide_border=true" alt="Nishanth's GitHub Streak Stats" />
+  <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth1321&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
